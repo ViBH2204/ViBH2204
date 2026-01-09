@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <h1 align="center">Hi 👋, I'm vaibhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -94,3 +94,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+-->
