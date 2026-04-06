@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+## Watch snake eating my github contributions
+![Snake animation](https://github.com/ViBH2204/ViBH2204/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **ViBH2204/ViBH2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
