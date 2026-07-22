@@ -18,16 +18,20 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL"/> </p> </td> <td valign="top" width="33%">
 </p>
 
-**Web & Software Engineering**
+🎨 Frontend
+<p> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/> </p> </td> <td valign="top" width="33%">
 
-<p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+🗄️ Backend
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/> </p> </td> </tr> <tr> <td valign="top" width="33%">
+
+
+🛢️ Database
+<p> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </p> </td> <td valign="top" width="33%">
+
 
 **Data Science & Machine Learning**
 
@@ -42,7 +46,7 @@
 </p>
 
 <br/>
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,11 +59,12 @@
 </p>
 
 <br/>
+-->
 
 ### 🐍 Watch a snake eat my GitHub contributions
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ViBH2204/ViBH2204/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph"/>
+<<p align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ViBH2204/ViBH2204/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
