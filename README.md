@@ -68,9 +68,9 @@
 </p>
 
 <br/>
-
-## 📫 Connect with me
 <!--
+## 📫 Connect with me
+
 - ✉️ ahluwaliavaibhav22@gmail.com
 - 🌐 [vaibhav-ahluwalia.vercel.app](https://vaibhav-ahluwalia.vercel.app/)
 -->
