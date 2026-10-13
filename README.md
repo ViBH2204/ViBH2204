@@ -126,11 +126,11 @@ A cricket analytics project focused on exploring IPL match data, team performanc
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViBH2204)
 
 <br/>
-
+<!--
 <img src="https://komarev.com/ghpvc/?username=ViBH2204&style=flat-square&color=39FF14&label=PROFILE+VISITORS" alt="Profile visitors" />
 
 <br/><br/>
-
+-->
 **`Code. Create. Iterate.`**
 
 </div>
