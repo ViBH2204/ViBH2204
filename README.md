@@ -3,9 +3,7 @@
 
 # VAIBHAV AHLUWALIA
 
-**`Software Developer` · `Full Stack Engineer` · `Problem Solver`**
-
-Building applications, exploring backend systems, and turning ideas into working products.
+**`Software Developer` · `Full Stack Engineer` · `AI/ML Engineer`**
 
 [Portfolio](https://vaibhav-ahluwalia.vercel.app/) · [GitHub](https://github.com/ViBH2204)
 
