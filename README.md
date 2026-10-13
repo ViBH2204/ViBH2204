@@ -122,7 +122,7 @@ A cricket analytics project focused on exploring IPL match data, team performanc
 
 ### `> Let's build something amazing.`
 
-[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://vaibhav-ahluwalia.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://vaibhav-ahluwalia.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViBH2204)
 
 <br/>
