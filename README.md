@@ -11,16 +11,18 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="./ascii-portrait.svg" width="100%" alt="Animated ASCII portrait" />
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 <img src="./info-card.svg" width="100%" alt="Neofetch developer information card" />
 
-</td>
+</td>  
+<td width="50%" align="center" valign="middle">
+
+<img src="./ascii-portrait.svg" width="100%" alt="Animated ASCII portrait" />
+
+
 </tr>
 </table>
 
