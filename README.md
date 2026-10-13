@@ -106,13 +106,14 @@ A cricket analytics project focused on exploring IPL match data, team performanc
 <img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
 
 <br/><br/>
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ViBH2204&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" width="100%" alt="GitHub statistics" />
+
 
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViBH2204&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14" width="70%" alt="Most used programming languages" />
-
+-->
 </div>
 
 ---
