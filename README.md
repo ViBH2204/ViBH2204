@@ -117,41 +117,21 @@ A cricket analytics project focused on exploring IPL match data, team performanc
 </div>
 
 ---
-<!--
+<
 <div align="center">
 
 ### `> Let's build something amazing.`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://vaibhav-ahluwalia.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://vaibhav-ahluwalia.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViBH2204)
 
 <br/>
-
+<!--
 <img src="https://komarev.com/ghpvc/?username=ViBH2204&style=flat-square&color=39FF14&label=PROFILE+VISITORS" alt="Profile visitors" />
-
+-->
 <br/><br/>
 
 **`Code. Create. Iterate.`**
 
 </div>
--->
 
-
-<div align="center">
-
-<img src="./assets/connect-background.svg" width="100%" alt="Dark green terminal background" />
-
-</div>
-
-<div align="center">
-
-### `❯ Let's build something amazing.`
-
-<a href="https://vaibhav-ahluwalia.vercel.app/">
-  <img src="https://img.shields.io/badge/▲%20PORTFOLIO-39FF14?style=for-the-badge&labelColor=39FF14&color=39FF14" alt="Portfolio" />
-</a>
-<a href="https://github.com/ViBH2204">
-  <img src="https://img.shields.io/badge/GITHUB-151A20?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
